@@ -1,0 +1,16 @@
+nome,email,cargo_atual,cargo_novo,setor,id
+Ana Silva,ana.silva@email.com,Analista de Marketing,Coordenador de Marketing,Marketing,1
+Carlos Santos,carlos.santos@email.com,Engenheiro de Software,Gerente de Desenvolvimento,TI,2
+Cristina Oliveira,cristina.oliveira@email.com,Assistente Administrativo,Supervisor Administrativo,Administração,3
+Diego Pereira,diego.pereira@email.com,Analista Financeiro,Controller,Finanças,4
+Eduarda Lima,eduarda.lima@email.com,Analista de Recursos Humanos,Gerente de RH,Recursos Humanos,5
+Fábio Rodrigues,fabio.rodrigues@email.com,Designer Gráfico,Coordenador de Design,Design,6
+Gabriela Almeida,gabriela.almeida@email.com,Vendedor Sênior,Gerente de Vendas,Vendas,7
+Henrique Costa,henrique.costa@email.com,Engenheiro de Produção,Supervisor de Produção,Produção,8
+Isabela Santos,isabela.santos@email.com,Analista de Qualidade,Gerente de Qualidade,Qualidade,9
+João Oliveira,joao.oliveira@email.com,Analista de Suporte Técnico,Supervisor de Suporte Técnico,TI,9
+Luana Martins,luana.martins@email.com,Analista de Comunicação,Coordenador de Comunicação,Comunicação,10
+Marcelo Pereira,marcelo.pereira@email.com,Analista de Logística,Gerente de Logística,Logística,11
+Natália Ferreira,natalia.ferreira@email.com,Analista de Projetos,Coordenador de Projetos,Projetos,12
+Paulo Lima,paulo.lima@email.com,Analista de Operações,Supervisor de Operações,Operações,13
+Raquel Oliveira,raquel.oliveira@email.com,Analista de Pesquisa de Mercado,Gerente de Pesquisa de Mercado,Pesquisa de Mercado,14

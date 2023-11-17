@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="../lib/jexel/index.min.js"></script>
+	<link rel="stylesheet" href="../lib/jexel/jspreadsheet.min.css">
+	<script src="../lib/jexel/jsuites.js"></script>
+	<link rel="stylesheet" href="../lib/jexel/jsuites.css">
+
+	<script src="../lib/PapaParse-5.0.2/papaparse.js"></script>
+	<title>Document</title>
+</head>
+<body>
+	<h1> CSV reader Sample</h1>
+	<form>
+		<label for="csv">Insira um arquivo</label>
+		<input type="file" name="csv" id="csv" required>
+		<input type="submit" value="enviar" id="submit">
+	</form>
+	<div id="table"></div>
+	<button id="process">Processar</button>
+	<script type="module" src="./main.js"></script>
+</body>
+</html>

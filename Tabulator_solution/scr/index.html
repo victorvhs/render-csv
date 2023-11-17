@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="../lib/tabulator-master/dist/js/tabulator.min.js"></script>
+	<link rel="stylesheet" href="../lib/tabulator-master/dist/css/tabulator.min.css">
+	<script src="../lib/PapaParse-5.0.2/papaparse.min.js"></script>
+	<title>Tabulator exemplo</title>
+</head>
+<body>
+	<h1> CSV reader Sample</h1>
+	<form>
+		<label for="csv">Insira um arquivo</label>
+		<input type="file" name="csv" id="csv" required>
+		<input type="submit" value="enviar" id="submit">
+	</form>
+	<div id="table"></div>
+	<button id="process">Processar</button>
+	
+<script src="./main.js"></script>
+</body>
+</html>
